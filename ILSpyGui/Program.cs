@@ -10,6 +10,9 @@ namespace ILSpyGui
         {
             var registry = new Registry();
 
+            //register presenter Factory
+            registry.For<IPresenterFactory> ().Use <PresenterFactory>().Singleton ();
+
             ObjectFactory.SetUpContainer (registry);
 
             Application.Init ();

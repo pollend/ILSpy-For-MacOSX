@@ -4,3 +4,6 @@
 [submodule "external/ILSpy"]
 	path = external/ILSpy
 	url = https://github.com/icsharpcode/ILSpy.git
+[submodule "external/cecil"]
+	path = external/cecil
+	url = https://github.com/jbevain/cecil.git

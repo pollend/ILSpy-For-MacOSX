@@ -80,6 +80,12 @@
     <Compile Include="History\HistoryManager.cs" />
     <Compile Include="TreeView.cs" />
     <Compile Include="gtk-gui\ILSpyGui.TreeView.cs" />
+    <Compile Include="Presenter\IPresenter.cs" />
+    <Compile Include="Presenter\PresenterRegistry.cs" />
+    <Compile Include="Presenter\IPresenterFactory.cs" />
+    <Compile Include="Presenter\PresenterFactory.cs" />
+    <Compile Include="TreeView\ITreeNode.cs" />
+    <Compile Include="TreeView\AssemblyListNode.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
   <ItemGroup>
@@ -89,5 +95,6 @@
     <Folder Include="Language\" />
     <Folder Include="TreeView\" />
     <Folder Include="History\" />
+    <Folder Include="Presenter\" />
   </ItemGroup>
 </Project>
