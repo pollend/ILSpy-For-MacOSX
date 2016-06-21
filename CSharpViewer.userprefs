@@ -1,0 +1,14 @@
+﻿<Properties StartupItem="ILSpyMac/ILSpyMac.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ILSpyMac/Main.cs">
+    <Files>
+      <File FileName="ILSpyMac/Main.cs" Line="7" Column="12" />
+      <File FileName="ILSpyMac/language/CSharpLanguage.cs" Line="24" Column="19" />
+      <File FileName="ICSharpCode.Decompiler/Disassembler/MethodBodyDisassembler.cs" Line="155" Column="17" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

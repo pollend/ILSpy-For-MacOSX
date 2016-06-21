@@ -1,0 +1,6 @@
+[submodule "external/NRefactory"]
+	path = external/NRefactory
+	url = https://github.com/icsharpcode/NRefactory.git
+[submodule "external/ILSpy"]
+	path = external/ILSpy
+	url = https://github.com/icsharpcode/ILSpy.git
